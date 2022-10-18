@@ -7,6 +7,7 @@
 #include <unordered_map>
 
 auto main(int argc, char** argv) -> int {
+
   const std::unordered_map<std::string, greeter::LanguageCode> languages{
       {"en", greeter::LanguageCode::EN},
       {"de", greeter::LanguageCode::DE},
@@ -48,6 +49,8 @@ auto main(int argc, char** argv) -> int {
 
   greeter::Greeter greeter(name);
   std::cout << greeter.greet(langIt->second) << std::endl;
+
+  greeter::Test_Proj();
 
   return 0;
 }

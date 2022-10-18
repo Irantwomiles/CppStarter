@@ -7,6 +7,8 @@ namespace greeter {
   /**  Language codes to be used with the Greeter class */
   enum class LanguageCode { EN, DE, ES, FR };
 
+  void Test_Proj();
+
   /**
    * @brief A class for saying hello in multiple languages
    */
