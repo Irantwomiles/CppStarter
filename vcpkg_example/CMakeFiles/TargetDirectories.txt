@@ -1,0 +1,3 @@
+/mnt/c/Users/irant/CLionProjects/CppStarter/vcpkg_example/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/irant/CLionProjects/CppStarter/vcpkg_example/CMakeFiles/edit_cache.dir
+/mnt/c/Users/irant/CLionProjects/CppStarter/vcpkg_example/CMakeFiles/example_out.dir

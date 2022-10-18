@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/irant/CLionProjects/CppStarter/vcpkg_example/main.cpp
+iostream
+-
+proj.h
+-
+
+/mnt/d/vcpkg/installed/x64-linux/include/proj.h
+stddef.h
+-
+proj_symbol_rename.h
+/mnt/d/vcpkg/installed/x64-linux/include/proj_symbol_rename.h
+
+/mnt/d/vcpkg/installed/x64-linux/include/proj_symbol_rename.h
+
